@@ -1,0 +1,2 @@
+# Quantum-State-Tomography-and-Bell-Test---A-Novel-Undergraduate-Experiment
+This repository contains the codes used to generate the plots and analyses presented in the paper Quantum State Tomography and Bell Test - A Novel Undergraduate Experiment. These scripts cover data processing, visualization, and statistical analysis, allowing for reproducibility and further exploration of the methods discussed.
