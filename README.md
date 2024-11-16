@@ -18,11 +18,17 @@ This repository contains the MATLAB code used in the paper _Quantum State Tomogr
 
 # Paper by:
 Eden Arbel - The Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
+
 Noa Israel - The Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
+
 Michal Belgorodsky - The Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
+
 Yonathan Shafrir- The Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
+
 Alona Maslennikov - Department of Chemistry Boston University, 590 Commonwealth Avenue, Boston, MA 02215, USA
+
 Sara P. Gandelman - The Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
+
 Georgi Gary Rozenman - Research Laboratory of Electronics, MIT-Harvard Center for
 Ultracold Atoms, Department of Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA, School of Electrical Engineering, Iby and Aladar Fleischman Faculty of Engineering, 
 Tel Aviv University, Tel Aviv 69978, Israel, The Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
